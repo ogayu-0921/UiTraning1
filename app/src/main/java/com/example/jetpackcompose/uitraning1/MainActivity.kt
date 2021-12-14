@@ -23,6 +23,7 @@ class MainActivity : ComponentActivity() {
     }
 }
 
+
 @Composable
 private fun FirstView() {
     Row(
